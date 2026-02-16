@@ -1,15 +1,15 @@
 {
-  "domain": "inverter_xpert_king",
-  "name": "Inverter Xpert King",
-  "codeowners": ["@astraliens"],
+  "domain": "axpert_inverter_jc",
+  "name": "Axpert Inverter JC",
+  "codeowners": ["@Jujuka89"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/astraliens/home-assistant-inverter-xpert-king",
-  "issue_tracker": "https://github.com/astraliens/home-assistant-inverter-xpert-king/issues",
+  "documentation": "https://github.com/Jujuka89/axpert-inverter-jc",
+  "issue_tracker": "https://github.com/Jujuka89/axpert-inverter-jc/issues",
   "homekit": {},
   "iot_class": "local_polling",
   "requirements": [],
   "ssdp": [],
-  "version": "0.1.5",
+  "version": "1.0.0",
   "zeroconf": []
 }
